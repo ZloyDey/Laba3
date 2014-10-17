@@ -1,5 +1,7 @@
 # include "sdt.h"
 
+//THIS IS AN EDUCATIONAL PROGRAMM
+
 main()
 {
   double a,b;
