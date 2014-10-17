@@ -2,5 +2,5 @@
 
 main()
 {
-
+  double a,b;
 }
