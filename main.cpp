@@ -9,5 +9,6 @@ main()
   cin>>a>>b;
   cout<<a+b;
   cout<<"\n"<<a-b;
+  cout<<"\n"<<a/b;
   cout<<"\n"<<a*b;
 }
